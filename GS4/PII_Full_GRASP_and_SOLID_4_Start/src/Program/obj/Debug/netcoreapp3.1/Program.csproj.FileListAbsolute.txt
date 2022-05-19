@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\bin\Debug\netcoreapp3.1\Program.exe
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\bin\Debug\netcoreapp3.1\Program.dll
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\bin\Debug\netcoreapp3.1\Program.pdb
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\obj\Debug\netcoreapp3.1\Program.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\obj\Debug\netcoreapp3.1\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\obj\Debug\netcoreapp3.1\Program.csproj.CopyComplete
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\obj\Debug\netcoreapp3.1\Program.dll
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\obj\Debug\netcoreapp3.1\Program.pdb
+C:\Users\Usuario\Desktop\GS4\PII_Full_GRASP_and_SOLID_4_Start\src\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
